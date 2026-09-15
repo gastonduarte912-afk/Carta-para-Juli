@@ -155,7 +155,7 @@ mensajes.forEach(function(mensaje) {
 // =========================
 
 const elementosAnimados = document.querySelectorAll(
-    ".historia, .fotos, .musica, .canjes, .lugar, .contador, .mensajes, .carta-final"
+    ".historia, .fotos, .musica, .canjes, .contador, .mensajes, .carta-final"
 );
 
 
