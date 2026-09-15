@@ -458,7 +458,7 @@ const peliculas = [
 
     {
         titulo: "Wonka",
-        poster: "fotos/peliculas/wonka.jpg",
+        poster: "fotos/peliculas/Wonka.jpg",
         calificacion: "Por completar",
         miNota: 1,
         suNota: 1,
